@@ -1,3 +1,5 @@
+[![Build Status](https://secure.travis-ci.org/LambdaHub/abstract-test.png)](http://travis-ci.org/LambdaHub/abstract-test)
+
 Given the following, create and execute tests in `js-node`, `js-ie6`, `ruby2`, `python2`, `python3`, `java`, `objc-ios`, `objc-mac`, ...
 
 ```coffee
